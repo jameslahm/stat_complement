@@ -10,5 +10,8 @@ HotellingT2(X,mu)
 
 # x: initial point delta: stop criteria
 JaccobiSolve(A,b,x,delta)
+```
+
+You are welcome to put up some function about statistic computation and I will try best to add it
 
 
