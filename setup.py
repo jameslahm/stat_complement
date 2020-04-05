@@ -10,7 +10,7 @@ with open(path.join(DIR,'README.md')) as f:
 
 setuptools.setup(
     name="stat_complement",
-    version="0.0.1",
+    version="0.0.2",
     author="jameslahm",
     description="A package as a complement for statistic computation",
     long_description=README,
